@@ -1,0 +1,41 @@
+    body{
+    background: url(../Image/ab6.png) no-repeat
+      }
+   #email{
+    margin-top:20px;
+    width: 280px;
+    height: 30px;
+    padding:5px;
+        }
+    #password{
+    margin-top:20px;
+    width: 280px;
+    height: 30px;
+    padding:5px;
+            }
+    #container{
+    text-align:center;
+    width:400px;
+    height:180px;
+	margin:0 auto;
+	padding:5px;
+	background:#fff;
+	border:1px solid green;
+    }  
+    #submit{
+    float:center;
+    margin-top:15px;
+	padding:10px;
+	width:420px;
+	background-color:green;
+	color:white;
+    } 
+    #label{
+        width: 150px;
+        height: 15px;
+        padding:5px;
+        }
+        h2{
+        text-align:center;
+        color:yellow;
+        }
